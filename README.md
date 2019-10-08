@@ -1,5 +1,4 @@
 # Jenkins-webhook
 Webhook test Jenkins
-Tak Faisal!
-WebHook on?
-Test...
+
+Tirsdag morgen med Dat18C
